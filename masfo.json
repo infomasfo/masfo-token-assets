@@ -1,0 +1,9 @@
+{
+  "name": "Masfo Token",
+  "symbol": "Masfo",
+  "decimals": 18,
+  "address": "0xCe0126E04222326d20213e9f853c0d61B7A8cAd6",
+  "chainId": 1114,
+  "logoURI": "https://raw.githubusercontent.com/infomasfo/masfo-token-assets/main/0xCe0126E04222326d20213e9f853c0d61B7A8cAd6.png",
+  "description": "Masfo Token is a utility token powering the Masfo ecosystem on the CoreDAO blockchain. It enables fast, secure, and community-driven value transfer and utility."
+}
