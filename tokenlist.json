@@ -1,0 +1,21 @@
+{
+  "name": "Masfo Token List",
+  "logoURI": "https://raw.githubusercontent.com/infomasfo/masfo-token-assets/main/0xCe0126E04222326d20213e9f853c0d61B7A8cAd6.png",
+  "keywords": ["masfo", "coredao", "token"],
+  "timestamp": "2025-06-25T00:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 1114,
+      "address": "0xCe0126E04222326d20213e9f853c0d61B7A8cAd6",
+      "name": "Masfo Token",
+      "symbol": "Masfo",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/infomasfo/masfo-token-assets/main/0xCe0126E04222326d20213e9f853c0d61B7A8cAd6.png"
+    }
+  ]
+}
